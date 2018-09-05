@@ -1,0 +1,26 @@
+baseurl = "https://retr0h.github.io/dewey.ws/"
+publishDir = "../docs"
+languageCode = "en-us"
+title = "Hello Friend"
+theme = "hello-friend"
+copyright = "įoнииγ įoнииγ - Powered by Hugo"
+paginate = 5
+canonifyURLs = true
+relativeURLs = true
+
+[params]
+  subtitle = "A simple theme for Hugo"
+
+[params.logo]
+  logoText = "hello friend"
+
+[menu]
+  [[menu.main]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/retr0h"
+
+  [[menu.main]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/retr0h"

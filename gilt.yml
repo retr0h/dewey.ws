@@ -1,0 +1,4 @@
+---
+- git: https://github.com/panr/hugo-theme-hello-friend.git
+  version: master
+  dst: dewey.ws/themes/hello-friend/
